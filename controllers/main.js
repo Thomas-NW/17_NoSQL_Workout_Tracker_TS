@@ -3,7 +3,7 @@
 //  const apiRoutes = require('./api');
  const homeRoutes = require('./homeroutes');
  const apiRoutes = require('./api/main.js');
- 
+
  
  router.use('/api', apiRoutes);
  router.use('/', homeRoutes);
