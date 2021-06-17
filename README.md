@@ -17,7 +17,7 @@
 
 ## Description
 🔍 An app that uses MongoDB as the backend for tracking exercises and charting your progress.
-deploy test 2
+deploy test 3
 
 ## Badges
 🏆 not applicable
