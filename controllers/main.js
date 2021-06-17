@@ -7,6 +7,7 @@
  
  router.use('/api', apiRoutes);
  router.use('/', homeRoutes);
+ console.log('test')
  
  
  module.exports = router;
