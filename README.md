@@ -33,6 +33,7 @@ Please be kind and change content if you wish to use this code.
 
 ## Usage
 💻 Heroku deployment link
+https://workout-tracker-thomasss.herokuapp.com/
 
 
 ## Contributing
